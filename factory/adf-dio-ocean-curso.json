@@ -1,0 +1,9 @@
+{
+	"name": "adf-dio-ocean-curso",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a83a5c4d-09ea-44a9-88b7-ff5ac1ec1b80",
+		"tenantId": "87209dbd-3da4-4250-bf38-94e3a419109b"
+	}
+}
